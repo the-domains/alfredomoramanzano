@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[alfredomoramanzano]]></title>
         <description><![CDATA[alfredomoramanzano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alfredomoramanzano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 16:05:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 16:12:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alfredomoramanzano/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44d55fe2-ae8d-4741-baa2-426d092f8407.jpg">]]></description>
+            <link>https://thegrid.ai/alfredomoramanzano/silverfish/index.html</link>
+            <guid isPermaLink="false">71cc8ed0-18e5-4b9c-8c52-8648d98a9fba</guid>
+            <pubDate>Tue, 03 May 2016 16:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00d69944-f5d1-47c7-b701-be46d696c2e4.jpg">]]></description>
-            <link>undefinedalfredo-mora-manzano/index.html</link>
+            <link>https://thegrid.ai/alfredomoramanzano/alfredo-mora-manzano/index.html</link>
             <guid isPermaLink="false">4dea041d-acff-4b4c-a244-7350a8248ad5</guid>
             <pubDate>Tue, 03 May 2016 16:05:30 GMT</pubDate>
         </item>
