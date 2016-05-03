@@ -1,7 +1,7 @@
 name: alfredomoramanzano
 favicon: null
 layout_spectrum: 0.23957
-typography_spectrum: 0.93058
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
+    - '#1b1b1b'
     - '#ffffff'
-    - '#b9b9b9'
-    - '#979797'
-    - '#585858'
-  brandStrength: 0.125
-  lightness: 1
-  saturation: 0.9800257398746908
-  rhythmicContrast: 0.25
+    - '#575757'
+    - '#afafaf'
+    - '#858585'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
