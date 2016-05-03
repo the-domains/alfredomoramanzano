@@ -1,7 +1,7 @@
 name: alfredomoramanzano
 favicon: null
-layout_spectrum: 0.1672210854012519
-typography_spectrum: 0.10677122045308352
+layout_spectrum: 0.49861
+typography_spectrum: 0.63186
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.03243888053111732
-  lightness: 0.6508088631089777
+    - '#000000'
+    - '#ffffff'
+    - '#b9b9b9'
+    - '#979797'
+    - '#585858'
+  brandStrength: 0.4375
+  lightness: 0.8125
   saturation: 0.9800257398746908
   rhythmicContrast: 0.7771168421022594
 purpose: []
