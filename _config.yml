@@ -1,7 +1,7 @@
 name: alfredomoramanzano
 favicon: null
-layout_spectrum: 0.49861
-typography_spectrum: 0.63186
+layout_spectrum: 0.23957
+typography_spectrum: 0.93058
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#b9b9b9'
     - '#979797'
     - '#585858'
-  brandStrength: 0.4375
-  lightness: 0.8125
+  brandStrength: 0.125
+  lightness: 1
   saturation: 0.9800257398746908
-  rhythmicContrast: 0.7771168421022594
+  rhythmicContrast: 0.25
 purpose: []
